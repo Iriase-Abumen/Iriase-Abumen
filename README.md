@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iriase-Abumen
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning software engineering with alx.
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently opened to cybersecurity projects
 
 <!---
 Iriase-Abumen/Iriase-Abumen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
